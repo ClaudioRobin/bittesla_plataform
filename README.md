@@ -1,7 +1,7 @@
 # Protótipo da plataforma da BitTesla
 
 Desenvolvido com React.js, este protótipo demonstra as principais funcionalidades do sistema,
-como cadastro de usuário, login, calculadora solar, dashboard de instalação e aluguel de painéis solares.
+como homepage, cadastro de usuário, login, calculadora solar, dashboard de instalação e aluguel de painéis solares.
 
 Para executar o projeto localmente:
 - Clone o repositório
